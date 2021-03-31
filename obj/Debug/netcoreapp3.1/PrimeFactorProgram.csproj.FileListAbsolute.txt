@@ -1,0 +1,12 @@
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\bin\Debug\netcoreapp3.1\PrimeFactorProgram.exe
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\bin\Debug\netcoreapp3.1\PrimeFactorProgram.deps.json
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\bin\Debug\netcoreapp3.1\PrimeFactorProgram.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\bin\Debug\netcoreapp3.1\PrimeFactorProgram.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\bin\Debug\netcoreapp3.1\PrimeFactorProgram.dll
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\bin\Debug\netcoreapp3.1\PrimeFactorProgram.pdb
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\obj\Debug\netcoreapp3.1\PrimeFactorProgram.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\obj\Debug\netcoreapp3.1\PrimeFactorProgram.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\obj\Debug\netcoreapp3.1\PrimeFactorProgram.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\obj\Debug\netcoreapp3.1\PrimeFactorProgram.dll
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\obj\Debug\netcoreapp3.1\PrimeFactorProgram.pdb
+C:\Users\abdul khayum\source\repos\PrimeFactorProgram\PrimeFactorProgram\obj\Debug\netcoreapp3.1\PrimeFactorProgram.genruntimeconfig.cache
